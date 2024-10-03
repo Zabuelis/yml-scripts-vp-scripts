@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" x="0px" y="0px" viewBox="0 0 173.12 355.049" overflow="visible" xml:space="preserve">
+<g id="Ebene_8" display="none">
+	<g display="inline">
+		<rect x="-140.172" y="-47.78" fill="#FFFFFF" width="453.543" height="453.543"></rect>
+	</g>
+</g>
+<g id="Ebene_4">
+	<path fill="#CCE0ED" d="M150.272,348.049H22.848C14.107,348.049,7,340.973,7,332.28V22.77C7,14.076,14.107,7,22.848,7h127.425   c8.735,0,15.848,7.076,15.848,15.77v309.51C166.12,340.973,159.008,348.049,150.272,348.049"></path>
+</g>
+<g id="Ebene_5">
+	<path fill="none" stroke="#0064A3" stroke-width="14" stroke-miterlimit="10" d="M150.272,348.049H22.848   C14.107,348.049,7,340.973,7,332.28V22.77C7,14.076,14.107,7,22.848,7h127.425c8.735,0,15.848,7.076,15.848,15.77v309.51   C166.12,340.973,159.008,348.049,150.272,348.049z"></path>
+	
+		<line fill="none" stroke="#0064A3" stroke-width="14.4341" stroke-miterlimit="10" x1="8.956" y1="185.016" x2="163.188" y2="185.016"></line>
+	<line fill="none" stroke="#0064A3" stroke-width="14" stroke-miterlimit="10" x1="124.76" y1="178.319" x2="124.76" y2="227.653"></line>
+	
+		<line fill="none" stroke="#0064A3" stroke-width="14.4341" stroke-miterlimit="10" x1="8.956" y1="225.64" x2="163.188" y2="225.64"></line>
+	<g>
+		<path fill="#0064A3" d="M86.56,86.63c-8.083-9.753-23.232-8.626-29.29-0.157c-6.726,9.748-2.52,19.668,3.872,26.54    c2.865,3.194,14.982,13.734,25.418,22.058c10.437-8.323,22.553-18.864,25.413-22.058c6.387-6.872,10.614-16.792,3.872-26.54    C109.786,78.004,94.637,76.877,86.56,86.63"></path>
+	</g>
+</g>
+<g id="Ebene_3" display="none">
+	<g display="inline">
+		<path fill="#0064A2" d="M299.371-33.78v425.543h-425.543V-33.78H299.371 M313.371-47.78h-453.543v453.543h453.543V-47.78    L313.371-47.78z"></path>
+	</g>
+</g>
+<g id="Ebene_2" display="none">
+</g>
+</svg>

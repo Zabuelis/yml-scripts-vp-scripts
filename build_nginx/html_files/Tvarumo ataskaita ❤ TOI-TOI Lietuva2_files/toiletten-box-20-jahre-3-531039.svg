@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" x="0px" y="0px" width="453.543px" height="453.543px" viewBox="0 0 453.543 453.543" overflow="visible" xml:space="preserve">
+<g id="Ebene_8" display="none">
+	<g>
+		<rect display="inline" fill="#FFFFFF" width="453.543" height="453.543"></rect>
+	</g>
+</g>
+<g id="Ebene_4">
+	<path fill="#CCE0ED" d="M202.337,352.846h-99.186c-6.804,0-12.336-5.508-12.336-12.275V99.652c0-6.767,5.532-12.275,12.336-12.275   h99.186c6.8,0,12.336,5.508,12.336,12.275v240.919C214.673,347.338,209.136,352.846,202.337,352.846"></path>
+</g>
+<g id="Ebene_5">
+	<path fill="none" stroke="#0064A3" stroke-width="14" stroke-miterlimit="10" d="M202.337,352.846h-99.186   c-6.804,0-12.336-5.508-12.336-12.275V99.652c0-6.767,5.532-12.275,12.336-12.275h99.186c6.8,0,12.336,5.508,12.336,12.275v240.919   C214.673,347.338,209.136,352.846,202.337,352.846z"></path>
+	
+		<line fill="none" stroke="#0064A3" stroke-width="14" stroke-miterlimit="10" x1="92.338" y1="225.942" x2="212.391" y2="225.942"></line>
+	<path fill="none" stroke="#0064A3" stroke-width="11.8665" stroke-miterlimit="10" d="M182.479,258.027"></path>
+	<path fill="none" stroke="#0064A3" stroke-width="11.8665" stroke-miterlimit="10" d="M182.479,219.626"></path>
+	
+		<line fill="none" stroke="#0064A3" stroke-width="14" stroke-miterlimit="10" x1="92.338" y1="257.564" x2="212.391" y2="257.564"></line>
+	<g>
+		<path fill="#0064A3" d="M152.744,149.36c-6.292-7.592-18.083-6.714-22.799-0.122c-5.236,7.587-1.962,15.309,3.014,20.658    c2.23,2.486,11.662,10.691,19.785,17.169c8.124-6.479,17.555-14.683,19.781-17.169c4.972-5.349,8.262-13.071,3.014-20.658    C170.823,142.645,159.031,141.768,152.744,149.36"></path>
+	</g>
+</g>
+<g id="Ebene_10">
+	
+		<circle fill="#FFFFFF" stroke="#0064A3" stroke-width="14" stroke-linecap="round" stroke-miterlimit="10" cx="296.011" cy="225.49" r="109.158"></circle>
+</g>
+<g id="Ebene_9">
+	
+		<line fill="none" stroke="#0064A3" stroke-width="14" stroke-linecap="round" stroke-miterlimit="10" x1="296.011" y1="297.555" x2="296.011" y2="328.182"></line>
+	
+		<line fill="none" stroke="#0064A3" stroke-width="14" stroke-linecap="round" stroke-miterlimit="10" x1="296.011" y1="123.443" x2="296.011" y2="154.07"></line>
+	
+		<line fill="none" stroke="#0064A3" stroke-width="14" stroke-linecap="round" stroke-miterlimit="10" x1="367.667" y1="225.549" x2="398.294" y2="225.549"></line>
+	
+		<line fill="none" stroke="#0064A3" stroke-width="14" stroke-linecap="round" stroke-miterlimit="10" x1="193.555" y1="225.549" x2="224.182" y2="225.549"></line>
+</g>
+<g id="Ebene_7">
+	<path fill="none" stroke="#0064A3" stroke-width="14" stroke-linecap="round" stroke-miterlimit="10" d="M387.977,78.633   c35.045,38.558,56.404,89.778,56.404,145.987c0,119.912-97.208,217.12-217.12,217.12S10.14,344.532,10.14,224.619   S107.348,7.499,227.26,7.499c44.967,0,86.741,13.67,121.394,37.081"></path>
+	
+		<line fill="none" stroke="#0064A3" stroke-width="14" stroke-linecap="round" stroke-miterlimit="10" x1="386.882" y1="78.1" x2="425.283" y2="78.1"></line>
+	
+		<line fill="none" stroke="#0064A3" stroke-width="14" stroke-linecap="round" stroke-miterlimit="10" x1="386.882" y1="79.471" x2="386.882" y2="117.873"></line>
+	<g>
+		<path fill="#CCE0ED" d="M333.511,150.8c-2.54,16.491-5.963,32.76-10.33,48.77c-2.121,7.859-1.944,16.766-7.103,23.548    c-5.503,7.627-11.892,13.471-21.316,17.41c-1.027,0.413-2.183-0.084-2.584-1.116c-3.595-9.553-3.722-18.222-1.942-27.454    c1.401-8.406,8.004-14.383,12.272-21.316c4.272-7.027,8.793-13.946,13.563-20.758c4.814-6.793,9.583-13.605,14.856-20.2    C331.796,148.524,333.77,149.371,333.511,150.8L333.511,150.8z"></path>
+		<path fill="#CCE0ED" d="M258.511,150.8c2.541,16.491,5.963,32.76,10.33,48.77c2.121,7.859,1.944,16.766,7.103,23.548    c5.503,7.627,11.892,13.471,21.316,17.41c1.027,0.413,2.183-0.084,2.584-1.116c3.596-9.553,3.722-18.222,1.942-27.454    c-1.401-8.406-8.004-14.383-12.272-21.316c-4.272-7.027-8.793-13.946-13.563-20.758c-4.814-6.793-9.583-13.605-14.856-20.2    C260.226,148.524,258.252,149.371,258.511,150.8L258.511,150.8z"></path>
+	</g>
+</g>
+<g id="Ebene_6" display="none">
+</g>
+<g id="Ebene_3" display="none">
+	<g display="inline">
+		<path fill="#0064A2" d="M439.543,14v425.543H14V14H439.543 M453.543,0H0v453.543h453.543V0L453.543,0z"></path>
+	</g>
+</g>
+<g id="Ebene_2" display="none">
+</g>
+</svg>
