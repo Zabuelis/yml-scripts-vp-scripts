@@ -7,6 +7,7 @@ func_install () {
 	mv default /etc/nginx/sites-available/
 	systemctl restart nginx
 	mv info.php /var/www/html/
+	mv ./renamed_html_files /var/www/html/
 }
 
 
